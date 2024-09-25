@@ -11,7 +11,8 @@ Para realizar este ejercicio, debo escribir:
 - Un emoji. :thumbsup:
 - Una alerta (vista al principio).
 - Una línea horizontal (está colocada abajo).
-- Una imagen.
+
+  - Una imagen.
 
 ---
 
